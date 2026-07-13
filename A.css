@@ -1,0 +1,170 @@
+.body{
+background :url(A.png);
+    background-size:cover;
+    background-repeat:no-repeat;
+    height:100vh;
+}
+.div{
+   display: flex; 
+   margin-left:800px;
+}
+.a{
+    margin-left:30px;
+    text-decoration:none;
+    color: white;
+    font-size:20px;
+}
+
+.spanh{
+    color: orange;
+}
+.divh{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+  
+}
+.h{
+    color: white;
+}
+.az{
+    margin-top: 20px;
+    background: transparent;
+    color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 12px 25px;
+    text-decoration: none;
+
+}
+.divb{
+    text-align:center;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content:center;
+    gap: 15px;
+    width: 100%;
+
+    
+    
+
+}
+.b{
+    background-color:#007bff;
+    color: white;
+    padding :12px 24px ;
+    text-decoration:none;
+    display:inline-block;
+    border-radius:10px;
+    font-size :16px;
+    font-weight:bold;
+    border:none;
+    cursor: pointer;
+
+}
+.diva{
+    margin: top 900px;;
+text-align:center;
+}
+.imga{
+    width:600px;
+    
+}
+.divab{
+    text-align: center;
+}
+.pa{
+    line-height:25px;
+    font-size:20px;
+
+}
+
+
+.service{
+    text-align: center;
+}
+
+.divs{
+    display: flex;
+}
+.imgs{
+    width:700pxpx;
+}
+.spanE{
+    color:orange;
+    font-size: 30px;
+}
+.imgE{
+    width: 500px;
+    border-radius:10px;
+    
+}
+.divE{
+    display:flex;
+    flex-direction:column;
+    align-items :center;
+    gap: 5px;
+    text-align:center;
+
+}  
+.aE{
+    background-color: #007bff;
+    color:white;
+    padding:15px 24px;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 10px;
+    font-size:16px;
+    font-weight:bold;
+    border:none;
+    cursor:pointer;
+
+
+}
+.hc{
+    text-align: center;
+}
+.imgc{
+    width:20px;
+    height: 20px;
+    margin-align:8px;
+    vertical-align: middle;
+}
+.text{
+    width: 900px
+    height: 800px;
+    padding: 10px;
+    border-radius: 10px;
+    resize: none;
+}
+.divc{
+ 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.ac{
+    text-decoration: none;
+    color: black;
+}
+.item{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 15px;
+}
+
+.imgc{
+    width: 20px;
+    height: 20px;
+}
+
+.ac{
+    text-decoration: none;
+    color: black;
+}
